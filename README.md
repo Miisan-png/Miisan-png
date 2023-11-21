@@ -8,8 +8,10 @@ I'm a self taught game programmer i guesss :)
 
 ##  What i use sometimes
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=61DAFB)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Pythonx&color=764ABC)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=GdScript&color=F7DF1E)
+
 
 </br>
 
@@ -27,19 +29,4 @@ I'm a self taught game programmer i guesss :)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
-view raw
-README.txt hosted with ❤ by GitHub
