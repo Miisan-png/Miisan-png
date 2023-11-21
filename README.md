@@ -5,5 +5,5 @@ I'm a self taught game programmer i guesss :)
 
 
 ##  What i use sometimes
-![](https://img.shields.io/badge/Code-GdScript-informational?style=flat&?logo=mython&color=61DAFB)
+![badge](https://img.shields.io/badge/GDScript-Pink)
 
