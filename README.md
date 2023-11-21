@@ -5,6 +5,6 @@ I'm a self taught game programmer i guesss :)
 
 
 ##  What i use sometimes
-https://custom-icon-badges.demolab.com/badge/GdScript-blue.svg?logo=https://raw.githubusercontent.com/username/repo/main/images/1.png
+h![GdScript](https://custom-icon-badges.demolab.com/badge/GdScript-blue.svg?logo=https://raw.githubusercontent.com/username/repo/main/images/1.png)
 
 
