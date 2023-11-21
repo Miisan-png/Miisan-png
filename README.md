@@ -1,4 +1,4 @@
-### Hi there 👋
+![Untitled design](https://github.com/psy-lilulu/psy-lilulu/assets/128460054/8b82b92a-866f-4d59-a119-c22da85db41b)
 
 <!--
 **psy-lilulu/psy-lilulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
