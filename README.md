@@ -6,7 +6,7 @@
 </h3>
 
 <h2 align="center">
-i am a self taught game programmer i think
+i am a game programmer i think
 </h2> 
 
 
