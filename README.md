@@ -9,7 +9,6 @@
 i am a game programmer i think
 </h2> 
 
-i made this
 https://psy-lilulu.github.io/CodeMap-Website/
 
 
