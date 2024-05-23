@@ -2,6 +2,9 @@
 
 <h3 align="center">
   hi i am mii
+  currently working on a custom game engine
+
+  working as: Game Developer/Developing proprietary tool
 </a> 
 </h3>
 
