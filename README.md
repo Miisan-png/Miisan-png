@@ -22,36 +22,6 @@
 
 ---
 
-## About Me
-
-<p align="center">
-  <img src="https://your-image-link-here" alt="Your Image" width="200" height="200">
-</p>
-
-<p align="center">
-  I am passionate about developing games and creating custom game engines. 
-  I have experience in GDScript, C++, and Python. 
-  Currently, I am working on a proprietary tool to enhance my game development workflow.
-</p>
-
----
-
-## Projects
-
-<p align="center">
-  <a href="https://github.com/your-profile/your-project">
-    <img src="https://img.shields.io/badge/Project-1-informational?style=flat&logo=github&color=yellow" alt="Project 1">
-  </a>
-  <a href="https://github.com/your-profile/your-project">
-    <img src="https://img.shields.io/badge/Project-2-informational?style=flat&logo=github&color=blue" alt="Project 2">
-  </a>
-  <a href="https://github.com/your-profile/your-project">
-    <img src="https://img.shields.io/badge/Project-3-informational?style=flat&logo=github&color=green" alt="Project 3">
-  </a>
-</p>
-
----
-
 ## Contact Me
 
 <p align="center">
