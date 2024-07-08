@@ -1,7 +1,6 @@
 <h1 align="center">hi i am mi</h1>
 <h3 align="center">game developer and a programmer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
