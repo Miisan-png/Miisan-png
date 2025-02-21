@@ -1,6 +1,6 @@
 <!-- Dark theme aesthetic README -->
 <div align="center">
-  <h1>Pixel Artist and Game engine programmer</h1>
+  <h1>Artist and Game engine programmer</h1>
   
   <p align="center">
     <a href="https://bsky.app/profile/miisann.bsky.social">
