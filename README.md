@@ -1,6 +1,8 @@
 <div align="center">
   <h1>No1 Aura Farmer</h1>
   
+  <p align="center">Game Engine programmer and john syndicated</p>
+  
   <p align="center">
     <a href="https://bsky.app/profile/miisann.bsky.social">
       <img src="https://custom-icon-badges.demolab.com/badge/-bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
