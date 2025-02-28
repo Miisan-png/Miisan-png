@@ -17,7 +17,7 @@
 
   <div align="center">
     <p>I create Godot Shaders Sometimes</p>
-    <a href="https://godotshaders.com/author/miisann">
+    <a href="https://godotshaders.com/author/miisannn">
       <img src="https://custom-icon-badges.demolab.com/badge/-My Shader Collection-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GodotShaders"/>
     </a>
   </div>
