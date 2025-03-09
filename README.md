@@ -1,7 +1,6 @@
 <div align="center">
-  <h1> No1 Aura Farmer </h1>
-  
-  <p align="center"><i>Game Engine Programmer & John Syndicated</i></p>
+
+  <p align="center"><i>Game Engine Programmer </i></p>
   
   <p align="center">
     <a href="https://bsky.app/profile/miisann.bsky.social">
