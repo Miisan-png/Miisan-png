@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p align="center"><i>Game Engine Programmer </i></p>
+  <p align="center"><i>Game Engine Programmer </p>
   
   <p align="center">
     <a href="https://bsky.app/profile/miisann.bsky.social">
