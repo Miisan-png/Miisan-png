@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
   <p align="center"><i>Game Engine Programmer | Illustrator </p>
   
@@ -21,8 +21,4 @@
     </a>
   </div>
   
-  <br>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square" alt="Profile views"/>
-  </p>
 </div>
